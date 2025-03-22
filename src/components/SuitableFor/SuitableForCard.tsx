@@ -16,7 +16,7 @@ export const SuitableForCard: React.FC<SuitableForCardProps> = ({ index, title, 
           <h3 className="text-lg font-semibold shrink-0 inline-block bg-gray-200 text-black px-4 py-1 rounded-2xl shadow-md">{String(index).padStart(2, '0')}</h3>
         </div>
         {/* Image */}
-        <div className="w-full h-48 lg:h-64 mb-6">
+        <div className="w-full h-48 mt-auto lg:h-64 mb-6">
           <img src={image} alt={title} className="w-full h-full object-cover rounded-3xl" />
         </div>
         {/* Description  */}
