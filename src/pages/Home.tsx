@@ -21,7 +21,7 @@ const Home = () => {
   };
 
   return (
-    <div className="flex flex-col min-h-screen bg-black">
+    <div className="flex flex-col min-h-screen bg-black px-2 md:px-4 lg:px-64">
       {/* Mobile-first optimization notice - only visible on large screens */}
       <MobileNotice />
 
