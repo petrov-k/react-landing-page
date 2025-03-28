@@ -26,8 +26,8 @@ export const BigOfferBlock: React.FC<OfferBlockProps> = ({ onGetStarted }) => {
             Вартість
           </div>
           <div className="flex space-x-2">
-            <span className="text-gray-800 text-2xl font-bold">467 грн</span>
-            <span className="text-gray-400 text-2xl font-bold relative after:absolute after:w-[110%] after:h-[2px] after:bg-red-500 after:left-[-5%] after:top-1/2 after:rotate-[-15deg]">1823 грн</span>
+            <span className="text-gray-800 text-2xl font-bold">371 грн</span>
+            <span className="text-gray-400 text-2xl font-bold relative after:absolute after:w-[110%] after:h-[2px] after:bg-red-500 after:left-[-5%] after:top-1/2 after:rotate-[-15deg]">1427 грн</span>
           </div>
         </div>
 
